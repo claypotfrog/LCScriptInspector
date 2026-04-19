@@ -1,1 +1,1 @@
-Precompiled binaries for desktop operating systems.
+Precompiled binaries for desktop operating systems with checksums.
